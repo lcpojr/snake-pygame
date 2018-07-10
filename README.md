@@ -28,3 +28,7 @@ To run the game use `python main.py`.
 * If you collide with the apple the snake get bigger.
 * If you collide with the snake or the borders its game over.
 * Press Esc to close the game.
+
+## Documentation
+
+You can check all pygame documentations on their page: https://www.pygame.org/docs/
