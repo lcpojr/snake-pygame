@@ -14,7 +14,7 @@ You can change the code to improve the game with scores, menus or whorever you w
 
 ## Installation
 
-If you are using windowns you should download and install the Python from their page: https://www.python.org/downloads/
+If you are using windows you should download and install the Python from their page: https://www.python.org/downloads/
 After that you should clone this project and install the dependencies.
 
 `sudo apt-get install python-pip` to download the pip module (only on linux).  
